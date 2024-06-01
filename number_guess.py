@@ -35,7 +35,7 @@ def play_game():
             print(f"you have guessed the wrong number! the secret number is ,{sec_number}")
 
 
-
+##looping 
 while True:
     play_game()
     play_again = input("want to play again? (yes/no)").lower()
